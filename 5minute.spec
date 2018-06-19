@@ -55,3 +55,4 @@ Give me an instance of mine image on OpenStack. Hurry!
 * Tue Jun 19 2018 Martin Korbel <mkorbel@redhat.com> - 0.2.31-0
 - The better detection of end of the installation
 - The option and non-option arguments can be intermixed (GNU style scanning mode)
+- Update cinderclient to API v2
